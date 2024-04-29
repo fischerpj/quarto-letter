@@ -2,6 +2,10 @@
 
 This is a Quarto template that assists you in creating a manuscript using the letter format.
 
+## LOG
+- I take it over
+- duplicate template_fischerpj.qmd based on quarto-letter and jsut render it.
+
 ## Creating a New Letter
 
 You can use this as a template to create a letter.
