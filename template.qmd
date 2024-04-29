@@ -1,13 +1,13 @@
 ---
 author:
-  - name: John Doe
+  - name: Pierre J. FISCHER
     affiliation:
       - name: Dummy org
         department: Cool Dep
-        address: Somewhere
-        city: Magic city
-        country: best one
-        postal-code: 9999
+        address: 39 rue de la Figairasse Bat I
+        city: MONTPELLIER
+        country: France
+        postal-code: 34070
 address:
   - Director Doe & Co
   - 35 Anthony Road
@@ -15,8 +15,8 @@ address:
   - Ipswich IP3 5RT
 subject: collaboration
 subject-title: "Subject"
-opening: "Dear Sir or Madam,"
-closing: "Yours Faithfully,"
+opening: "Chère Madame, cher Monsieur,"
+closing: "Recevez mes plus sincères salutations,"
 cc:
   - Recipient 1
   - Recipient 2
